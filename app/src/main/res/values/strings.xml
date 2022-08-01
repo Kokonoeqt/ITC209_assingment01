@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AssignmentOne</string>
+    <string name="employee_first_name">First Name</string>
+    <string name="employee_second_name">Last Name</string>
+    <string name="employee_id">Employee ID</string>
+    <string name="employee_email_address">Email Address</string>
+    <string name="employee_submit_btn">Submit</string>
+</resources>
